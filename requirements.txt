@@ -1,0 +1,6 @@
+azure-functions
+azure-storage-blob
+urllib3
+pandas
+certifi
+twilio
